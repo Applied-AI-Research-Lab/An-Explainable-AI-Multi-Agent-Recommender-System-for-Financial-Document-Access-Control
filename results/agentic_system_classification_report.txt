@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+      Public     0.6748    0.8476    0.7514       164
+    Internal     0.7521    0.5549    0.6386       164
+Confidential     0.9398    0.9455    0.9426       165
+  Restricted     1.0000    1.0000    1.0000       164
+
+    accuracy                         0.8371       657
+   macro avg     0.8416    0.8370    0.8331       657
+weighted avg     0.8418    0.8371    0.8333       657
